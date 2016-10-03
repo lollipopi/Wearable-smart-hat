@@ -5,5 +5,7 @@
 
 开封高中 1812 李晨阳
 
+详情见参赛提交U盘
+
 All Rights Reserved
 
