@@ -7,5 +7,5 @@
 
 详情见参赛提交U盘 （演示视频&图片&申请材料等）
 
-All Rights Reserved
+All Rights Reserved.
 
