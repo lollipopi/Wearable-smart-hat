@@ -2,6 +2,7 @@
  *     工程名   ：基于Arduino单片机的可穿戴监护通讯设备
  *     硬件平台 ：Arduino Uno R3
  *     软件平台 ：Arduino IDE 1.6
+ *     系统平台 ：Linux version 4.4.0-31-generic
  *     功能描述 ：* 监护功能项：1.温度实时测定；
  *                              2.湿度实时测定；
  *                              3.人体脉搏实时测定；                           
@@ -25,14 +26,14 @@
  *                              4.180°云台（舵机）.
  *                              
  *     库文件   ：详见 Github 
- *     修改记录 ：Final
+ *     修改日期 ：Tue, 04 Oct 2016 11:03:31 GMT
  *     版本     ：Final
  *     
  *     作者     ：开封高中 1812 李晨阳
  *     邮箱     ：molu@li.cm
  *     硬件连接 ：详见Github原理图
  *     Github   ：https://github.com/lollipopi/Wearable-smart-hat/
- *     更多信息 ：见参赛提交U盘
+ *     更多信息 ：见申请书
 **********************************************************************************/
                            
 #include <U8glib.h>                   
