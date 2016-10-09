@@ -230,7 +230,7 @@ void alert()
   fire = analogRead(2);
   delay(100);
 
-  if (fire >= 10000)   /*火焰传感器数据待调试*/
+  if (fire == 10000)   /*火焰传感器数据待调试*/
   {
     tone(10, 80);
     Serial.println("AT+CTTS=1,6CE8610F706B7130");  //"注意火焰" TTS
